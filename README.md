@@ -18,14 +18,10 @@ This project is for the Savvy Gaming Group Kickstarter Internship UI Technical T
 
 ## Above & Beyond (Optional)
 
-* Implemented **Safe Area** support to ensure UI elements do not overlap with phone camera notches or rounded screen edges.  
+ I also Implemented Safe Area support to ensure UI elements do not overlap with phone camera notches or rounded screen edges.  
   I used a free, ready-made Unity script available online From unity website for handling Safe Area adjustments.  
   This guarantees the UI displays correctly across various devices, including newer phones with notches.
 
-* Bonus: Prepared to animate **Hover Element 2** for additional UI interactivity if required.
+ Set up animation for Hover Element 2 to elevate UI responsiveness
 
-## How to Run
 
-* Open the Unity project called `UI - Assessment` 
-* Open the scene file `MainScene.unity`.
-* Press Play to test the UI.
